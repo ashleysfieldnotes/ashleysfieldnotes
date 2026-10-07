@@ -21,7 +21,9 @@ I'm a passionate Junior Technical Writer with a background in fine arts and art 
 #### 1. [How to Apply Press-on Nails](https://docs.google.com/document/d/1XcAzzXZiXYymtnCWljj0mODf1QFncYArecrK-3qvb3Q/edit?usp=sharing)
 
 *How to Apply Press-on Nails* is a step-by-step guide based on an existing instruction manual. This project demonstrates concise instructions to apply, care for, and remove press-on nails. 
+
 ---
+
 #### More Updates and Projects Coming Soon
 
 I am a beginning technical writer. I hope to practice my skills and build my portfolio here!
