@@ -22,7 +22,7 @@ I'm a passionate Junior Technical Writer with a background in fine arts and art 
 
 *How to Apply Press-on Nails* is a step-by-step guide based on an existing instruction manual. This project demonstrates concise instructions to apply, care for, and remove press-on nails. 
 
-
+##### More Updates and Projects Coming Soon
 
 I am a beginning technical writer. I hope to practice my skills and build my portfolio here!
 
